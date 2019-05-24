@@ -1,5 +1,6 @@
 ##ignore this file##
 .vs/
+.git/
 *.obj
 *.pch
 *.cache
