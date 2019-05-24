@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\sourcecode\vcpkg\buildtrees\ffmpeg\src\ffmpeg-4-b07214b5f9\fftools\cmdutils.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="include\config.h">
       <Filter>Header Files</Filter>
     </ClInclude>
