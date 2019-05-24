@@ -1,0 +1,20 @@
+##ignore this file##
+.vs/
+*.obj
+*.pch
+*.cache
+*.tmp
+*.exe
+*.xml
+*.log
+*.lastcodeanalysissucceeded
+*.idb
+*.ilk
+*.exp
+*.tlog
+*.user
+*.CopyComplete
+*.pchast
+*.opendb
+packages/
+Bin/Debug/MediaLib.pdb
